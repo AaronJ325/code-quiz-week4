@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(173, 173, 173);
+    font-family: 'Calibri'
+}
+
+.top {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between ;
+}
+
+.content {
+    margin-left: 20%;
+}
+
+#start {
+    margin-top: 10px;
+}
+
+#start h2 {
+    font-size: 40px;
+}
+
+.btn {
+    background-color: rgb(85, 111, 194);
+    border-radius: 20px;
+    color: white;
+    border: none;
+    padding: 12px;
+}
+
+.hidden {
+    display: none;
+}
+
+#quiz {
+    margin-top: 60px;
+    font-size: 26px;
+}
